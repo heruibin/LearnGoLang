@@ -10,4 +10,5 @@ func TestBubbleSort(t *testing.T) {
 	for i := 0; i < len(arrays); i++ {
 		t.Log(arrays[i])
 	}
+
 }
