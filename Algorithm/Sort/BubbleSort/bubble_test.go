@@ -2,6 +2,7 @@ package bubble
 
 import (
 	"testing"
+	"fmt"
 )
 
 func TestBubbleSort(t *testing.T) {
@@ -10,5 +11,5 @@ func TestBubbleSort(t *testing.T) {
 	for i := 0; i < len(arrays); i++ {
 		t.Log(arrays[i])
 	}
-
+	fmt.Println(arrays)
 }
