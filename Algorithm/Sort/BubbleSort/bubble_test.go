@@ -12,4 +12,5 @@ func TestBubbleSort(t *testing.T) {
 		t.Log(arrays[i])
 	}
 	fmt.Println(arrays)
+	fmt.Println("1243")
 }
