@@ -1,4 +1,4 @@
-package main
+package Invoke
 
 func main() {
 	Test()

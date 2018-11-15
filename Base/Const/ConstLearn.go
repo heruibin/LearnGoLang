@@ -28,4 +28,6 @@ func main() {
 	fmt.Println(a, b, c, d)
 	fmt.Println(aa, bb, cc, dd)
 	fmt.Println(1 << 20)
+
+	fmt.Println( 3 << 1)
 }
